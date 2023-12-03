@@ -11,9 +11,8 @@
 <div class="container mb-5">
     <p class="text-justify">Daftar Informasi Publik LLDIKTI Wilayah V
             Informasi publik berdasarkan Undang-undang Nomor 14 Tahun 2008 tentang Keterbukaan Informasi Publik adalah informasi yang dihasilkan, disimpan, dikelola, dikirim, dan/atau diterima oleh suatu badan publik yang berkaitan dengan penyelenggara dan penyelenggaraan negara dan/atau penyelenggara dan penyelenggaraan badan publik lainnya yang sesuai dengan Undang-undang serta informasi lain yang berkaitan dengan kepentingan publik.
-            Daftar informasi publik berkala di lingkungan LLDIKTI Wilayah V dapat diunduh di sini:
-            Daftar Informasi Publik Secara Berkala
-            Surat Keputusan Informasi Publik Secara Berkala
+            Daftar informasi publik berkala di lingkungan LLDIKTI Wilayah V dapat diunduh di sini: 
+            <a href="<?= base_url('informasi_publik/berkala') ?>"> Daftar Informasi Publik Secara Berkala dan Surat Keputusan Informasi Publik Secara Berkala </a>
     </p>
 </div>
 <div class="container mb-5" style="background: rgba(52, 83, 165, 1);">
@@ -28,7 +27,7 @@
 </div>
 <div class="container mb-5">
     <p class="text-justify">Daftar informasi publik berkala di lingkungan LLDIKTI Wilayah V dapat diunduh di sini:
-       <a href="">Daftar Informasi Publik Serta Merta
+       <a href="<?= base_url('informasi_publik/sertamerta') ?>" target="_blank">Daftar Informasi Publik Serta Merta
         Surat Keputusan Informasi Publik Serta Merta</a> 
     </p>
 </div>
@@ -44,7 +43,7 @@
 </div>
 <div class="container mb-5">
     <p class="text-justify">Daftar informasi publik berkala di lingkungan LLDIKTI Wilayah V dapat diunduh di sini:
-        <a href="">Daftar Informasi Publik Setiap Saat
+        <a href="<?= base_url('informasi_publik/setiap_saat') ?>" >Daftar Informasi Publik Setiap Saat
         Surat Keputusan Informasi Publik Setiap Saat</a>
     </p>
 </div>
@@ -60,7 +59,7 @@
 </div>
 <div class="container mb-5">
     <p class="text-justify">Daftar informasi publik berkala di lingkungan LLDIKTI Wilayah V dapat diunduh di sini:
-    <a href="">Daftar Informasi Publik Dikecualikan
+    <a href="<?= base_url('informasi_publik/dikecualikan') ?>" >Daftar Informasi Publik Dikecualikan
     Surat Keputusan Informasi Publik Dikecualikan</a>
     </p>
 </div>

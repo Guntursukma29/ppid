@@ -72,8 +72,7 @@
 								<li class="nav-item dropdown <?php if($this->uri->segment(1) == 'profile') echo 'active' ?>">
 									<a class="nav-link dropdown-toggle text-dark font-weight-bold" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Profil</a>
 									<div class="dropdown-menu" aria-labelledby="navbarDropdown" >
-										<a class="dropdown-item" href="<?= base_url('profile') ?>">Profile LLDIKTI V</a>
-										<a class="dropdown-item" href="<?= base_url('profile/p_ppid') ?>">Profile PPID LLDIKTI V</a>
+										<a class="dropdown-item" href="<?= base_url('profile/p_ppid') ?>">Profil PPID LLDIKTI V</a>
 										<a class="dropdown-item" href="<?= base_url('profile/struktur') ?>">Struktur Organisasi PPID LLDIKTI V</a>
 										<a class="dropdown-item" href="<?= base_url('profile/fungsi_ppid') ?>">Tugas dan Fungsi PPID LLDIKTI V</a>
 										<a class="dropdown-item" href="<?= base_url('profile/p_visimisi') ?>">Visi dan Misi PPID LLDIKTI V</a>

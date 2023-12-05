@@ -33,8 +33,7 @@
 											   </a></li>
 											<li class="list-inline-item"> <a href="https://www.youtube.com/channel/UCx9Y522fpjdZg2vATpgFDkw?view_as=subscriber" class="h4">
 												  <i class="icofont-youtube"></i>
-											   </a></i>
-											   </a></li>
+												</a></li>
 										 </ul>
 									</div>
 										</div>
@@ -49,8 +48,7 @@
 													<li>
 														<img src="" alt="" />
 														<p style="font-weight: 500"><i class="icofont-email mr-3"></i>Email</p>
-														<p style="color: white; font-weight: 600">
-															lldikti5@kemdikbud.go.id
+														<p style="color: white; font-weight: 600"> <a href="mailto:lldikti5@kemdikbud.go.id" >lldikti5@kemdikbud.go.id</a>
 														</p>
 													</li>
 													<li>
@@ -110,8 +108,9 @@
 										<!-- Footer links -->
 										<div class="footer_section footer_mobile">
 											<div class="footer_title">Tautan Penting</div>
-											<div class="footer_mobile_content">
-												<ul>
+											<br>
+											<div class="footer_mobile_content " style="">
+												<ul class="">
 													<li>
 														<a class="" style="color: white" href="https://kemdikbud.go.id/" target="_blank">Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi</a>
 													</li>
@@ -162,6 +161,8 @@
 	</div>
 
 		<script src="<?= base_url('frontend/js/jquery-3.2.1.min.js') ?>"></script>
+		<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
 		<script src="<?= base_url ('frontend/styles/bootstrap4/popper.js') ?>"></script>
 		<script src="<?= base_url('frontend/styles/bootstrap4/bootstrap.min.js') ?>"></script>
 		<script src="<?= base_url('frontend/plugins/greensock/TweenMax.min.js') ?>"></script>

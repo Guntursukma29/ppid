@@ -1049,7 +1049,7 @@ section {
 .footer_contact_info ul li:not(:last-child) {
 	/* margin-bottom: 15px; */
 }
-.footer_links {
+/* .footer_links {
 	padding-left: 80px;
 }
 .footer_links_container ul {
@@ -1074,7 +1074,7 @@ section {
 }
 .footer_links_container ul li a:hover {
 	color: #14bdee;
-}
+} */
 .footer_mobile {
 	display: inline-block;
 	float: right;
@@ -1082,6 +1082,9 @@ section {
 .footer_mobile_content {
 	padding-top: 35px;
 	color: #fff !important;
+}
+.footer_mobile_content ul li a:hover {
+	background: #ffbd07;
 }
 .footer_image:not(:last-child) {
 	margin-bottom: 10px;

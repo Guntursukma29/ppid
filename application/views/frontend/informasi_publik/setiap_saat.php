@@ -18,9 +18,9 @@
 							<ul style=" margin:20px">
 								<li><a href="">1. Daftar lnformasi Publik Lembaga Layanan Pendidikan Tinggi Wilayah V</a></li>
 								<li><a href="">2. Informasi tentang peraturan, keputusan, dan/atau kebijakan Lembaga Layanan Pendidikan Tinggi Wilayah V</a></li>
-								<li><a href="">3. Data Perguruan Tinggi Swasta (PTS) di lingkup Lembaga Layanan Pendidikan Tinggi Wilavah V</a></li>
+								<li><a href="https://lldikti5.id/evira/">3. Data Perguruan Tinggi Swasta (PTS) di lingkup Lembaga Layanan Pendidikan Tinggi Wilavah V</a></li>
 								<li><a href="">4. Jurnal ilmiah yang ada di Perguruan Tinggi Swasta (PTS) di lingkup  Lembaga Layanan Pendidikan Tinggi wilayah V</a></li>
-								<li><a href="">5. Pedoman pengelolaan organisasi, administrasi, kepegawaian, dan keuangan</a></li>
+								<li><a href="https://lldikti5.kemdikbud.go.id/home/regulasi">5. Pedoman pengelolaan organisasi, administrasi, kepegawaian, dan keuangan</a></li>
 							</ul>
 						</div>
 					</div>

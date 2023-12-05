@@ -102,11 +102,11 @@ class P_informasi extends CI_Controller
             
 
             if (!empty($Gambar)){
-                $config['upload_path']  = './gambar';
+                $config['upload_path']  = './gambar/';
                 $config['allowed_types'] = 'jpg|png|gif';
-                // $config [ 'ukuran_maks' ] = '100' ;
-                $config [ 'max_width' ] = '1024' ;
-                $config [ 'max_height' ] = '768' ;
+                $config['max_size'] = 3056;
+                $config [ 'max_width' ] = 1024 ;
+                $config [ 'max_height' ] = 768 ;
                 $config [ 'overwrite' ] = false ;
                 $config ['file_name'] = $Gambar;
 

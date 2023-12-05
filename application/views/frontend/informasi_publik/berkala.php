@@ -15,14 +15,14 @@
 					<div class='col-md-12'>
 						<!-- <h4 style="color:black">Informasi Yang Wajib Disediakan dan Diumumkan Secara Berkala</h4> -->
 						<div class='regulasi col-md-12 mt-3' >
-							<h5 style="color: black;">Informasi Tentang Profil Lembaga Layanan Pendidikan Tinggi Wilayah V</h5>
+							<h5 style="color: black;">Informasi Tentang Profil Lembaga Layanan Pendidikan Tinggi Wilayah V:</h5>
 							<ul style=" margin:20px">
 								<li><a href="">1. Informasi mengenai, kedudukan, domisili beserta alamat lengkap dan kontak. </a></li>
 								<li><a href="https://lldikti5.kemdikbud.go.id/home/struktur">2. Struktur Organisasi Lembaga Layanan Pendidikan Tinggi Wilayah V</a></li>
 								<li><a href="https://lldikti5.kemdikbud.go.id/home/tupoksi">3. Tugas dan fungsi Lembaga Layanan Pendidikan Tinggi Wilayah V</a></li>
 								<li><a href="https://lldikti5.kemdikbud.go.id/home/visimisi">4. Visi dan Misi Lembaga Layanan Pendidikan Tinggi Wilayah V</a></li>
 								<li><a href="">5. Logo Kemdikbudristek</a></li>
-								<li><a href="">6. Profil singkat pejabat struktural </a></li>
+								<li><a href="https://lldikti5.kemdikbud.go.id/home/profil">6. Profil singkat pejabat struktural </a></li>
 							</ul>
 							<h5 style="color: black; margin-bottom: 20px;"> Ringkasan Informasi tentang program dan / atau kegiatan yang sedang dijalankan dalam lingkup Lembaga Layanan Pendidikan Tinggi Wilayah V, yang meliputi: </h5>
 							<ul style="margin: 20px;">
@@ -36,7 +36,7 @@
                                 <li><a href="">8. Hasil survei kepuasan pemangku kepentingan</a></li>
                                 <li><a href="">9. Informasi tentang peraturan, keputusan, dan/atau kebijakan yang berdampak bagi publik yang di keluarkan oleh Pemerintah, Kemendikbudristek,dan Lembaga Layanan Pendidikan Tinggi Wilayah V</a></li>
                                 <li><a href="">10. Informasi tentang tata cara memperoleh infomasi publik</a></li>
-                                <li><a href="">11. Informasi tentrng tata cara pengaduan penyalahgunaan wewenang atau p€langgaran yang dilakukan oleh pejabat Lembaga Layanan Pendidikan Tinggi Wilayah V</a></li>
+                                <li><a href="">11. Informasi tentang tata cara pengaduan penyalahgunaan wewenang atau pelanggaran yang dilakukan oleh pejabat Lembaga Layanan Pendidikan Tinggi Wilayah V</a></li>
                                 <li><a href="">12. Ringkasan Laporan Layanan lnformasi</a></li>
                                 <li><a href="">13. Informasi tentang pengumuman pengadaan barang dan jasa</a></li>
 							</ul>

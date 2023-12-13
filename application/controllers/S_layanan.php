@@ -3,6 +3,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 class S_layanan extends CI_Controller 
 {
+    public function sklayanan ()
+    {
+        $data ['title'] = 'SK Layanan';
+        $this->load->view('frontend/header', $data );
+        $this->load->view('frontend/standarlayanan/p_sk', $data );
+        $this->load->view('frontend/footer');
+    }
     public function index ()
     {
         $data ['title'] = 'Permohonan informasi';
@@ -17,6 +24,7 @@ class S_layanan extends CI_Controller
         $this->load->view('frontend/standarlayanan/p_keberatan', $data );
         $this->load->view('frontend/footer');
     }
+    
     public function sengketa ()
     {
         $data ['title'] = 'Permohonan Sengketa';

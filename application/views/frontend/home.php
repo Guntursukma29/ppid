@@ -52,7 +52,7 @@
 											<img src="<?= base_url('./gambar/'); ?><?= $admin->Gambar ?>" alt="" />
 										</div>
 										<div class="event_title">
-											<a href="#"><?= $admin->Judul ?></a>
+											<h6><?= substr ($admin->Judul,0,50) ?></h6>
 										</div>
 										<div class="event_info_container">
 											<div class="event_info">
@@ -63,9 +63,10 @@
 											</div>
 											<div class="event_text">
 												<p>
-												<?= $admin->Deskripsi ?>
+													<?= substr ($admin->Deskripsi,0,100);?>
 												</p>
 											</div>
+											<a href="<?=site_url('home/detail/'. $admin->id)?>" class="card-link">Selengkapnya</a>
 										</div>
 									</div>	
 								</div>

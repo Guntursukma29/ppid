@@ -264,6 +264,7 @@ class Admin extends CI_Controller
         </div>');
         redirect('admin');
     }
+    
     public function validate_image()
     {
         $check = TRUE;

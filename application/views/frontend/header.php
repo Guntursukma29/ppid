@@ -83,9 +83,10 @@
 										<li class="nav-item dropdown <?php if($this->uri->segment(1) == 'standar_layanan') echo 'active' ?>">
 									<a class="nav-link dropdown-toggle text-dark font-weight-bold" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Standar Layanan</a>
 									<div class="dropdown-menu" aria-labelledby="navbarDropdown" >
+										<a class="dropdown-item" href="<?= base_url('s_layanan/sklayanan') ?>">SK </a>
 										<a class="dropdown-item" href="<?= base_url('s_layanan/index') ?>">Permohonan Informasi</a>
-										<a class="dropdown-item" href="<?= base_url('s_layanan/sengketa') ?>"">Permohonan Sengketa</a>
-										<a class="dropdown-item" href="<?= base_url('s_layanan/keberatan') ?>"">Permohonan Keberatan</a>
+										<a class="dropdown-item" href="<?= base_url('s_layanan/sengketa') ?>">Permohonan Sengketa</a>
+										<a class="dropdown-item" href="<?= base_url('s_layanan/keberatan') ?>">Permohonan Keberatan</a>
 									</div>
 								</li>
 								<li class="nav-link <?php if($this->uri->segment(1) == 'Informasi_publik') echo 'active' ?>">
@@ -123,14 +124,5 @@
 			</div>
 		</header>
 	</div>
-    	
-			<!-- Header -->
-
-			
-
-			<!-- Menu -->
-
-			
-		<!-- Footer -->
 
 		

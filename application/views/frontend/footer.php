@@ -108,9 +108,8 @@
 										<!-- Footer links -->
 										<div class="footer_section footer_mobile">
 											<div class="footer_title">Tautan Penting</div>
-											<br>
-											<div class="footer_mobile_content " style="">
-												<ul class="">
+											<div class="footer_mobile_content mt-1">
+												<ul>
 													<li>
 														<a class="" style="color: white" href="https://kemdikbud.go.id/" target="_blank">Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi</a>
 													</li>

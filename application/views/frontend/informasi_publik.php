@@ -59,7 +59,8 @@
 </div>
 <div class="container mb-5">
     <p class="text-justify">Daftar informasi publik berkala di lingkungan LLDIKTI Wilayah V dapat diunduh di sini:
-    <a href="<?= base_url('informasi_publik/dikecualikan') ?>" >Daftar Informasi Publik Dikecualikan
-    Surat Keputusan Informasi Publik Dikecualikan</a>
+    <a href="<?= base_url('assets/img/informasiyangdikecualikan.pdf') ?>" >Daftar Informasi Publik Dikecualikan
+    Surat Keputusan Informasi Publik Dikecualikan</a> 
     </p>
+    <p>Untuk mengajukan <span style="font-weight: bold;">PERMOHONAN INFORMASI PUBLIK YANG DIKECUALIKAN</span>  klik <a href="https://lldikti5.id/siap/formulir">disini</a> </p>
 </div>

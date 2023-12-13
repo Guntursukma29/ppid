@@ -26,6 +26,16 @@ class Admin_model extends CI_Model{
         $this->db->where('id', $data['id']);
         $this->db->delete($table);
     }
+    // public function selectArtikel($id){
+    //     $this->db->where('id', $id);
+    //     $data = $this->db->get('tbl_artikel');
+    //     $dataarray = $data->result_array();
+    //     return $dataarray;
+    // }
+    public function selectArtikel($id){
+        $query = $this->db->get_where('tbl_artikel', array('id' => $id));
+        return $query->row_array();
+    }
 }
 
 ?>
